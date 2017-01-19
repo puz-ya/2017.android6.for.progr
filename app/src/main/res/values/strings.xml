@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Welcome</string>
-    <string name="pic_text">The BUG!</string>
+    <string name="pic_text">The BUG image!</string>     <!-- for TalkBack (deaf assistant) -->
+    <string name="welcome">Welcome to the new App</string>
 </resources>
